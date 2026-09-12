@@ -8,11 +8,11 @@
       "kernelVersions": ["5.4.289"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/arda-y-28/Root-My-Galaxy-Payloads/main/cve-2026-43499-app.so",
-        "size": 123328
+        "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/BenEgeDeniz/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android12-5.10-kdp",
-        "size": 6649032
+        "url": "https://raw.githubusercontent.com/arda-y-28/Root-My-Galaxy-Payloads/main/kernelsu/ksud-A566EXXSCCZG6-kdp",
+        "size": 4765336
       }
     },
     {
