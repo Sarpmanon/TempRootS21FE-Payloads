@@ -11,6 +11,10 @@
       "exploit": {
         "url": "https://raw.githubusercontent.com/Sarpmanon/TempRootS21FE-Payloads/main/artifacts/r9q-G990B2XXSJIZF1/cve-2026-43499-app.so",
         "size": 104128
+      },
+      "kernelsu": {
+        "url": "https://raw.githubusercontent.com/BenEgeDeniz/Root-My-Galaxy-Payloads/main/kernelsu/ksud-samsung-android12-5.10-kdp",
+        "size": 6649032
       }
     }
   ]
