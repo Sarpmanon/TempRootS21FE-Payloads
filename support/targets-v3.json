@@ -8,7 +8,7 @@
       "kernelVersions": ["5.4.289"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/k-o-n-t-o-r/Root-My-Galaxy-Payloads/r9q-g990b-lizh2/artifacts/r9q-G990BXXSLIZH2/cve-2026-43499-app.so",
-        "size": 123328
+        "size": 132288
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/k-o-n-t-o-r/Root-My-Galaxy-Payloads/r9q-g990b-lizh2/kernelsu/ksud-r9q-G990BXXSLIZH2-kdp",
